@@ -1,0 +1,20 @@
+{
+  "name": "study-puppeteer",
+  "version": "1.0.0",
+  "description": "Headless Browser인 Headless-Chrome의 high-level 라이브러리 Puppeteer를 활용한 예제",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "start:airbnb": "node src/airbnb",
+    "start:naver-cafe": "node src/naver-cafe"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/puppeteer": "^1.12.3"
+  },
+  "dependencies": {
+    "puppeteer": "^1.14.0"
+  }
+}
