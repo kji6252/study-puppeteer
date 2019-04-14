@@ -26,7 +26,7 @@ npm start
 npm run start:airbnb
 ```
 
-> 네이버 카페 예제는 네이버 아이디와 패스워드를 소스코드에서 수정 후 원하는 게시글 URL을 수정하여 사용 하세요.
+> 네이버 카페 예제는 네이버 아이디와 패스워드 원하는 게시글 URL을 수정하여 사용 하세요.
 ```bash
 # 네이버 카페 예제
 npm run start:naver-cafe
